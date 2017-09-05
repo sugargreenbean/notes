@@ -5,3 +5,13 @@
 Jensen-Shannon divergence is derived from Kullback-Leibler divergence; both essentially aim to capture the similiarity between two different probabiltiy distributions.
 
 Objective: understand the implications of KL divergence, how JS is derived from KL, how all of this relates to Kolmogorov-Smirnov
+
+# Potential Explanations/Blog posts
+
+## Radial basis function
+
+Is there a great explanation for RBF anywhere? 
+
+## Hessian/Jacobian & Gradient
+
+I feel like Hessian (especially as it == Jacobian of gradient) is particularly well understood through graphics of how a 2nd derivative describes the curvature of a space.
